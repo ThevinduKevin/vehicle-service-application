@@ -16,7 +16,7 @@ Getting Started
 Follow these steps to set up and run the Vehicle Service Reservation Application:
 
 Clone the repository to your local machine:
-git clone https://github.com/VimukthiMK/vehicle-service-reservation-Application.git
+git clone https://github.com/ThevinduKevin/vehicle-service-application.git
 Import Project in Eclipse IDE:
 Open Eclipse IDE and import the project.
 Configure Database:
