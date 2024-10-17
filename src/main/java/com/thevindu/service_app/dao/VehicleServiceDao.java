@@ -1,4 +1,4 @@
-package com.vimukthimk.reservation_app.dao;
+package com.thevindu.service_app.dao;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -9,7 +9,7 @@ import java.sql.Time;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.vimukthimk.reservation_app.model.VehicleService;
+import com.thevindu.service_app.model.VehicleService;
 
 public class VehicleServiceDao {
 

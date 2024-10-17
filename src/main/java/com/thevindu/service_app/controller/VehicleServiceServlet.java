@@ -1,4 +1,4 @@
-package com.vimukthimk.reservation_app.controller;
+package com.thevindu.service_app.controller;
 
 import java.io.IOException;
 import java.sql.SQLException;
@@ -13,8 +13,8 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import com.vimukthimk.reservation_app.model.VehicleService;
-import com.vimukthimk.reservation_app.dao.VehicleServiceDao;
+import com.thevindu.service_app.model.VehicleService;
+import com.thevindu.service_app.dao.VehicleServiceDao;
 import org.apache.commons.text.StringEscapeUtils;
 
 /**

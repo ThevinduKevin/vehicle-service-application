@@ -1,4 +1,4 @@
-package com.vimukthimk.reservation_app.model;
+package com.thevindu.service_app.model;
 
 public class VehicleService {
 
